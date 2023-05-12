@@ -1,7 +1,3 @@
-# HQ Answers Bot
-### Crowdsourced HQ Trivia Discord Bot
-
-Invite this discord bot to your server and it will automatically collect answers from users whenever an HQ game is live. It will display everybody's answers nicely in any channel you specify.
 
 ### Installation
 ```
